@@ -1,0 +1,23 @@
+{
+  "uploadEntries": [
+    {
+      "assetId": "c6ec1dd5-784d-4805-8fea-395c7a292824",
+      "name": "MsM Science Center Room",
+      "isEnabled": true,
+      "uploadItems": [
+        {
+          "prefabFilepath": "Assets/ScienceBuilding/Scenes/ScienceBuilding.unity",
+          "buildPlatforms": [
+            "android",
+            "pc"
+          ]
+        }
+      ],
+      "perPlatformAssets": false,
+      "thumbnailImagesFolder": "Assets\\MeshToolkit\\Thumbnails\\c6ec1dd5",
+      "includeThumbnail": false,
+      "thumbnailGenerationBehavior": "Autogenerate",
+      "metaverseId": "6756811a-130f-4c3e-af3c-7973faf218da"
+    }
+  ]
+}

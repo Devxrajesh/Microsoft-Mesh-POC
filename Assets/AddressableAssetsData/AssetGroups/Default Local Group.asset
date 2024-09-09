@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5dc9b22a0bce3704c9f707a69b294575
+  m_SerializeEntries:
+  - m_GUID: 349005d660ea665469fe1813fef74bbc
+    m_Address: Assets/Mesh101/Assets/MeshToolkit/Fonts/Segoe UI Semibold SDF DepthTestOn
+      Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84013e619d9d81b4699d5d72680c7d94
+    m_Address: Assets/Mesh101/Assets/Common/WindFarm/Shaders/Ocean.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 650dd9526735d5b46b79224bc6e94025
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Unlit.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7708d5a639c5ea74aa8e8e05cf95955a
+    m_Address: Assets/Mesh101/Assets/Chapter3/3.1 - Video/WindTurbine.mp4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7757810c5f94b0b4dbbe574e4c4be42c
+    m_Address: Assets/DartRoom/Gimco_Final_Logoblack_png.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be18f5ac4868382448fa6d590cbef7f5
+    m_Address: Assets/DartRoom/MSM machinery/SprintLine01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c519931a902b7de4c8ba2c33ba85bd67
+    m_Address: Assets/DartRoom/MSM machinery/TExtures
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c6612e022fd7f4c4da508f36d244a653, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 72998c8b0d9f413409e774c2beb7ebf5, type: 2}
+    - {fileID: 11400000, guid: b91561ff164e69349a6f4bbe53e43e41, type: 2}

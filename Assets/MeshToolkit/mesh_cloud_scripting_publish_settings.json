@@ -1,0 +1,14 @@
+{
+  "9efb79a1-f904-41ca-a9bc-48d0bf194f89": {
+    "mode": "Dev",
+    "location": "DefaultLocation",
+    "enableAppMonitoring": true,
+    "lastDeployedEndpoint": ""
+  },
+  "c6ec1dd5-784d-4805-8fea-395c7a292824": {
+    "mode": "Dev",
+    "location": "DefaultLocation",
+    "enableAppMonitoring": true,
+    "lastDeployedEndpoint": ""
+  }
+}
